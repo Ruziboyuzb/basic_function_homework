@@ -1,3 +1,10 @@
 // Create a function called func.
 // Return the value integer type.
-void main() {}
+int func(){
+    return 99;
+}
+
+
+void main() {
+    print(func());
+}
