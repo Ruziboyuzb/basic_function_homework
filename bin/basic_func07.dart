@@ -3,8 +3,8 @@
 //  Create function arguments a.
 
 //  Return the value a.
-String func(String name){
-    return "my name is "+name;
+String func(String a){
+    return "my name is "+a;
 }
 
 
